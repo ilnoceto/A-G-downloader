@@ -1,0 +1,30 @@
+A&G Downloader – License
+
+Copyright (c) 2025 Alex & Giovanni (A&G)
+
+SOFTWARE USO PERSONALE E NON COMMERCIALE
+
+Il presente software viene distribuito gratuitamente **solo per uso personale, privato, didattico e non commerciale**.  
+**È espressamente vietato l’uso commerciale, la rivendita o la distribuzione a scopo di lucro**.
+
+È permessa la copia, modifica e condivisione del software solo a titolo gratuito, mantenendo questa licenza e l’attribuzione agli autori originali.
+
+Il software viene fornito "COSÌ COM’È", senza alcuna garanzia.  
+Gli autori non si assumono responsabilità per eventuali danni derivanti dall’uso del software.
+
+---
+
+A&G Downloader – License
+
+Copyright (c) 2025 Alex & Giovanni (A&G)
+
+**PERSONAL AND NON-COMMERCIAL USE ONLY**
+
+This software is distributed **for personal, private, educational and non-commercial use only**.  
+**Commercial use, resale or profit distribution is strictly forbidden.**
+
+You may copy, modify and share the software for free, as long as you keep this license and credit the original authors.
+
+The software is provided "AS IS", without warranty of any kind.  
+The authors are not liable for any damages arising from its use.
+
