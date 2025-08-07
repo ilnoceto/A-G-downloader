@@ -12,7 +12,8 @@ Integrated aria2 engine, history, progress, resume, token support and much more�
 Designed for people working with data, AI, backups, personal and professional projects!
 
 🇮🇹 ISTRUZIONI IN ITALIANO
-(https://mega.nz/file/mB8H1DyJ#cxT12EA41Ai0jXtjm0yYIdIZ_XO1Y53emX3KRhg9xwc) Estrai tutto lo ZIP in una cartella (es: A&G-downloader/)
+https://mega.nz/file/mB8H1DyJ#cxT12EA41Ai0jXtjm0yYIdIZ_XO1Y53emX3KRhg9xwc
+ Estrai tutto lo ZIP in una cartella (es: A&G-downloader/)
 
 Avvia il programma con:
 
