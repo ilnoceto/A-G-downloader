@@ -1,9 +1,9 @@
 ## 🔗 DOWNLOAD MEGA
 
 **🇮🇹 Scarica subito il pacchetto completo da MEGA:**  
-[Download diretto da MEGA] https://mega.nz/file/LQcmjCQC#FWnJEzX252mrxq5ckbd-8Gui7jHrJwmLo3SZiyaYBkQ
+[Download diretto da MEGA]https://mega.nz/file/LQcmjCQC#FWnJEzX252mrxq5ckbd-8Gui7jHrJwmLo3SZiyaYBkQ
 **🇬🇧 Download the full package directly from MEGA:**  
-[Direct MEGA download] https://mega.nz/file/LQcmjCQC#FWnJEzX252mrxq5ckbd-8Gui7jHrJwmLo3SZiyaYBkQ
+[Direct MEGA download]https://mega.nz/file/LQcmjCQC#FWnJEzX252mrxq5ckbd-8Gui7jHrJwmLo3SZiyaYBkQ
 ---
 
 # A&G Downloader
